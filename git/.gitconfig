@@ -1,0 +1,8 @@
+[alias]
+    ci = commit
+    co = checkout
+    sw = switch
+    st = status
+    br = branch
+[color]
+    ui = auto
