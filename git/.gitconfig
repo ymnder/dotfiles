@@ -4,5 +4,7 @@
     sw = switch
     st = status
     br = branch
+    di = diff
+    dc = di --cached
 [color]
     ui = auto
